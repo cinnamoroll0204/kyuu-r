@@ -1,4 +1,4 @@
-/********** Template CSS **********/
+
 :root {
     --primary: #2124B1;
     --secondary: #4777F5;
@@ -189,7 +189,11 @@ h6,
     
     background:
         url(../img/bg-figma.png),
-        url(../img/white.jpg);
+        url(../img/bg-dot.png),
+        url(../img/bg-dot.png),
+        url(../img/bg-round.png),
+        url(../img/bg-tree.png),
+        url(../img/bg-bottom-hero.png);
    /** background-position:
         10px 10px,
         bottom 100px right 10px,
@@ -197,7 +201,7 @@ h6,
         left 45% bottom -1px,
         center bottom -1px; **/
     background-repeat: no-repeat;
-    background-size: 1440px 826px;
+    background-size: 1440px 740px;
 }
 
 
